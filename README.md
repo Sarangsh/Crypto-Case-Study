@@ -5,7 +5,7 @@
 ## Table of Contents 📖
 
 * [🔭 Dataset Exploration](#explore)
-* 🧽 Data Cleaning
+* [🧽 Data Cleaning](#clean)
 * [📊 Business Problem Solutions](#solutions)
 -------------------
 # 🔭 Dataset Exploration <a name='explore'></a>
